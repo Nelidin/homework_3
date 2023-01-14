@@ -1,3 +1,5 @@
+![Logo GIT](https://pbs.twimg.com/media/DkO9Q_FWsAUFuOt?format=jpg&name=large)
+
 # Инструкция для работы с Git и удалёнными репозиториями
 777
 
